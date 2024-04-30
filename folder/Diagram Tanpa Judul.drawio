@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T03:41:09.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fSWWw1LSptYgTwwWM44m" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T03:41:27.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OHzx2iObO7HcdTdkjQKU" version="24.3.1" type="github">
   <diagram name="Halaman-1" id="OEboe4QJ8jvTvGQWzq0m">
     <mxGraphModel dx="1793" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="UJ2ERsbeONkP-5ShqWx7-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;homepage&lt;/h1&gt;&lt;p&gt;test-sidanau.brin.go.id&lt;br&gt;NextJS (NodeJS 20)&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="530" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UJ2ERsbeONkP-5ShqWx7-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;adminpage&lt;/h1&gt;&lt;p&gt;test-adminsidana6u.brin.go.id&lt;br&gt;NextJS (NodeJS 20)&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UJ2ERsbeONkP-5ShqWx7-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;adminpage&lt;/h1&gt;&lt;p&gt;test-adminsidanau.brin.go.id&lt;br&gt;NextJS (NodeJS 20)&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="770" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UJ2ERsbeONkP-5ShqWx7-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;backend-api&lt;/h1&gt;&lt;p&gt;testapi-sidanau.brin.go.id&lt;br&gt;Laravel 10, PHP8.1&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
